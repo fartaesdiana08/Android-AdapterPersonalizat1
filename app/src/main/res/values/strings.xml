@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AdapterPersonalizat1</string>
+    <string name="error_1">Completeza material</string>
+    <string name="error_2">Adauga pret</string>
+    <string name="material">Material</string>
+    <string name="pret">Pret</string>
+    <string name="nr_materiale_folosite">Nr. materiale folosite</string>
+    <string name="scump">Scump</string>
+    <string name="ieftin">Ieftin</string>
+    <string name="salveaza">Salveaza</string>
+    <string name="valoare">Valoare</string>
+</resources>

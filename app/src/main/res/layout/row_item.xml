@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textMaterial"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:text="@string/material" />
+
+    <TextView
+        android:id="@+id/textPret"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:text="@string/pret" />
+
+    <TextView
+        android:id="@+id/textvaloare"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:text="@string/valoare" />
+
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ratingbar">
+    </RatingBar>
+</LinearLayout>
